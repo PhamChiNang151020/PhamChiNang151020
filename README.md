@@ -8,7 +8,10 @@
 
 Hello everyone. So glad you all came here. The projects here are what I experienced during my study at the University. They may not be in the master form, but they can also help me during my research in this field.
 #### A little about myself
-- 
+- 🏫 I study at Ho Chi Minh City Open University.
+- 📲💻 My major is Computer Graphics. Besides, I also like web and mobile programming
+- My day job is to write code.
+- My hobbies: Traveling, playing sports, listening to music,...
 <!--
 **PhamChiNang151020/PhamChiNang151020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
