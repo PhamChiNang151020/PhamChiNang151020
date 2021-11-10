@@ -5,10 +5,12 @@
 #
 #### ![icons8-facebook-24](https://user-images.githubusercontent.com/87531241/140892006-b2ca653d-c13f-4604-8d4a-eee4807f2f78.png)  https://www.facebook.com/PhamChiNang151020/
 #### ![icons8-gmail-24](https://user-images.githubusercontent.com/87531241/140892507-75ac2572-aa5e-4697-ae4c-5eb766ac5a60.png)   phamchinang.dev@gmail.com
-
+#### ![icons8-gitlab-24](https://user-images.githubusercontent.com/87531241/141059035-edd290d5-a21b-4967-97d4-caaa8bb0623b.png) https://gitlab.com/phamchinang1510
+#
 Hello everyone. So glad you all came here. The projects here are what I experienced during my study at the University. They may not be in the master form, but they can also help me during my research in this field.
 #### A little about myself
-- 🏫 I study at Ho Chi Minh City Open University.
-- 📲💻 My major is Computer Graphics. Besides, I also like web and mobile programming
-- My day job is coding.
-- My hobbies: Traveling, playing sports, listening to music,...
++ 🏫 I study at Ho Chi Minh City Open University.
++ 📲💻 My major is Computer Graphics. Besides, I also like web and mobile programming
++ My day job is coding.
++ My hobbies: Traveling, playing sports, listening to music,...
+#
