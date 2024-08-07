@@ -3,7 +3,7 @@
 #
 ![dcbnbo1-ab42b800-72a4-43a0-bdeb-309be7619fb1](https://user-images.githubusercontent.com/87531241/140897463-c08dbf32-21da-4758-9623-c93178d276d7.gif)
 #
-<a href="https://app.daily.dev/phamchinang"><img src="https://api.daily.dev/devcards/5ddbe7edfd3c440885772d2c7abbb1f5.png?r=mz3" width="400" alt="Pham Chi Nang's Dev Card"/></a>
+
 #### ![icons8-facebook-25](https://user-images.githubusercontent.com/87531241/141216604-ce71b621-6457-4959-bed8-8123b47fb923.png)  https://www.facebook.com/PhamChiNang151020/
 
 #### ![icons8-gmail-logo-25](https://user-images.githubusercontent.com/87531241/141216611-fe355ddb-bebe-4116-bdb8-475fb96a3e8e.png)  phamchinang.dev@gmail.com
