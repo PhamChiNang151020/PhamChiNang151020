@@ -1,38 +1,81 @@
-#
-![GitHub-banner](https://user-images.githubusercontent.com/87531241/141057087-aa67c316-b7d9-45f6-b7e2-52670eac8c92.png)
-#
-![dcbnbo1-ab42b800-72a4-43a0-bdeb-309be7619fb1](https://user-images.githubusercontent.com/87531241/140897463-c08dbf32-21da-4758-9623-c93178d276d7.gif)
-#
+<div align="center">
 
-#### ![icons8-facebook-25](https://user-images.githubusercontent.com/87531241/141216604-ce71b621-6457-4959-bed8-8123b47fb923.png)  https://www.facebook.com/PhamChiNang151020/
+<!-- Header banner (Capsule Render — no manual image upload) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=180&section=header&text=Marcus%20Ph%E1%BA%A1m&fontSize=42&fontColor=fff&animation=twinkling" alt="Header banner" width="100%"/>
 
-#### ![icons8-gmail-logo-25](https://user-images.githubusercontent.com/87531241/141216611-fe355ddb-bebe-4116-bdb8-475fb96a3e8e.png)  phamchinang.dev@gmail.com
-#### ![icons8-gitlab-25](https://user-images.githubusercontent.com/87531241/141216616-6bb13aa2-c6db-4b6f-87ef-8bd0963f2850.png)  https://gitlab.com/phamchinang1510
-#### ![icons8-cv-30](https://user-images.githubusercontent.com/87531241/148823064-98d08464-580c-432d-bc58-eedb155dba3d.png) My CV: [CV_PhamChiNang_MobileDeveloper_HoChiMinh.pdf](https://github.com/PhamChiNang151020/PhamChiNang151020/files/12434905/CV_PhamChiNang_MobileDeveloper_HoChiMinh.pdf)
+<!-- Typing headline -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4158D0&center=true&vCenter=true&width=600&lines=Mobile+Developer+%7C+Flutter;Ho+Chi+Minh+City%2C+Vietnam;Building+%26+maintaining+production+apps" alt="Typing animation" />
+</a>
 
+<br/>
 
+<!-- Social badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phamchinang/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/PhamChiNang151020/)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/phamchinang1510)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phamchinang.dev@gmail.com)
 
-<li> Graduated from Ho Chi Minh City Open University with a major in Computer Science in 2022.</li>
+</div>
 
-<li>Possess 2 years of experience working with mobile applications, collaborating within team environments ranging from 5 to 10 members.</li>
-<li>Ambition to attain a senior-level position within the next 3 to 5 years</li>
-<br></br>
-● Hard Skills
+---
 
-- Possess 2 years of experience working with mobile applications, collaborating within team environments ranging from 5 to 10 members.
-- Ambition to attain a senior-level position within the next 3 to 5 years.
-- Flutter: 2 years in mobile app development.
-- React Native: 1 year in mobile app development.
-- Firebase: Google/Facebook authentication, real-time databases, cloud storage. OneSignal: push notification. Google Maps: Location-based services.
-- Biometrics: Fingerprint, facial recognition.
-- Version Control Systems: Git, SVN,..
-- Language: English for reading, comprehending technical docs, responding to emails, and effective communication.
-  
-● Soft Skills
+### About me
 
-- Software development methodology: Understand WaterFall & Scrum framework.
-- Team Collaboration: Effective teamwork and collaboration.
-- Problem-Solving: Proficient in daily reporting, error detection, analysis, and creating estimated timelines for issue resolution.
-- Ticketing System used for tracking task assignment: using Redmine and Jira systems.
-- Project Deployment: Skilled in deploying projects to various App Stores, CH Play, and platforms.
-- App Distribution: utilizing TestFlight, generating APK files.
+**Marcus Phạm** (Phạm Chí Năng) — **Mobile Developer** based in **Ho Chi Minh City, Vietnam**.
+
+Flutter-focused engineer with **~4 years** shipping and maintaining mobile apps. I usually own the core implementation lifecycle: feature development, refactoring, releases, and long-term maintenance in teams of up to **5** mobile developers.
+
+Over the next **3–5 years**, I aim to grow into a **senior mobile engineer**, with stronger system design, architecture decisions, and mentoring within Flutter product teams.
+
+---
+
+### Experience
+
+| Period | Company | Role & focus |
+|--------|---------|----------------|
+| **2023 – Present** | **BeyondEdge** (multi-domain products) | Primary mobile developer — Flutter/Dart, cross-platform delivery, app maintenance |
+| **2022 – 2023** | **Minh Phương Logistics** | Primary mobile developer — end-to-end feature work and ongoing maintenance |
+
+---
+
+### Tech stack
+
+<div align="center">
+
+<!-- Skill icons: https://github.com/tandpfun/skill-icons -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,graphql,git,gitlab,android,apple,vscode&perline=9" alt="Tech stack icons" />
+</a>
+
+</div>
+
+**Mobile:** Flutter & Dart · iOS & Android (Method Channels, platform integration)  
+**Architecture & state:** Clean Architecture · MVVM · Bloc · Riverpod · Provider  
+**APIs & data:** REST · GraphQL (basic) · Firebase  
+**Quality:** Unit tests · lightweight design systems for in-app UI consistency  
+
+---
+
+### Featured project
+
+| Project | Description |
+|---------|-------------|
+| [**flutter_sdk_switcher**](https://github.com/PhamChiNang151020/flutter_sdk_switcher) | macOS desktop app to scan local Flutter SDK installs and switch versions via symlink — built with Flutter & Riverpod |
+
+---
+
+### Education
+
+- **B.S. Computer Science**, Ho Chi Minh City Open University — **2022**
+
+---
+
+<div align="center">
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=100&section=footer&fontSize=14&fontColor=fff" alt="Footer banner" width="100%"/>
+
+*Thanks for visiting — feel free to connect via LinkedIn or email.*
+
+</div>
